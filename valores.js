@@ -4,7 +4,7 @@
 true
 false
 
-null
+null// valor vacio
 undefined//no usar
 
 [1,2,3]//array
