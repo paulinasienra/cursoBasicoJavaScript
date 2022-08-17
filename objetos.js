@@ -17,4 +17,4 @@ var miAuto = {//objeto
     this.annio = annio;
  }
 
- 
+var nuevoAuto = new auto("Tesla","Modelo3",2020)
